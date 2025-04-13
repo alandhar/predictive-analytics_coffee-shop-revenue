@@ -39,6 +39,7 @@ Referensi:
 ## Data Understanding
 
 Dataset yang digunakan dalam proyek ini berjudul "Coffee Shop Daily Revenue Prediction", yang diunduh dari Kaggle. Dataset ini berisi data operasional harian coffee shop sebanyak 2.000 entri dan 7 fitur numerik, serta satu kolom target yaitu `Daily_Revenue`. Data ini merepresentasikan kombinasi dari variabel internal seperti jumlah pelanggan dan karyawan, serta faktor eksternal seperti pengeluaran marketing dan lalu lintas lokasi.
+
 Sumber Data : [Coffee Shop Daily Revenue Prediction Dataset – Kaggle](https://www.kaggle.com/datasets/himelsarder/coffee-shop-daily-revenue-prediction-dataset/data)
 
 ---
